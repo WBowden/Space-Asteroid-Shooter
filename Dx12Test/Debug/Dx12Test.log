@@ -1,0 +1,20 @@
+﻿Build started 3/15/2015 4:14:00 PM.
+     1>Project "C:\Users\Bill Bowden\Desktop\FLASH DRIVE\William Bowden_Project2\Dx12Test\Dx12Test.vcxproj" on node 2 (Build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\Dx12Test.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt WinMain.cpp
+         WinMain.cpp
+         c:\program files (x86)\windows kits\8.0\include\um\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Bill Bowden\Desktop\FLASH DRIVE\William Bowden_Project2\Debug\Dx12Test.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Bill Bowden\Desktop\FLASH DRIVE\William Bowden_Project2\Debug\Dx12Test.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Bill Bowden\Desktop\FLASH DRIVE\William Bowden_Project2\Debug\Dx12Test.lib" /MACHINE:X86 Debug\sprite.obj
+         Debug\WinMain.obj
+         Dx12Test.vcxproj -> C:\Users\Bill Bowden\Desktop\FLASH DRIVE\William Bowden_Project2\Debug\Dx12Test.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\Dx12Test.unsuccessfulbuild".
+         Touching "Debug\Dx12Test.lastbuildstate".
+     1>Done Building Project "C:\Users\Bill Bowden\Desktop\FLASH DRIVE\William Bowden_Project2\Dx12Test\Dx12Test.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.94
